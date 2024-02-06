@@ -25,7 +25,7 @@ export default function App() {
       </div>
 
       <div id="header-right">
-        <a href="header"><p>INÍCIO</p></a>
+        <a href="#header-left"><p>INÍCIO</p></a>
         <a href="#biography-left"><p>SOBRE MIM</p></a>
         <a href="#h1-projects-main"><p>PROJETOS</p></a>
         <a href="#contacts-main"><p>CONTATO</p></a>
